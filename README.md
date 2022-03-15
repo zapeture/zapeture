@@ -1,35 +1,26 @@
-### Hi there, I'm Fortune Zviregei - aka [zapeture][website] :muscle:
+<h1 align="center">Hi 👋, I'm Fortune Zviregei</h1>
+<h3 align="center">Software Developer at Xenon Partners.</h3>
 
-## I'm a Software Developer
+<br>
 
-- {\*} I’m currently learning everything 🤣
-- :racing_car: I'm in love with Formula 1
+- 💻 I’m currently learning Web Development and other programming languages
 
-### Hit me up on:
+- 📬 Get in touch with me on **fortunechainz@gmail.com**
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<br>
 
-<br />
-
-### Languages and/or Technologies:
-
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" style="padding:10px"  width="40px"/>
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" style="padding:10px" width="40px"/>
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" style="padding:10px" width="40px"/>
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" style="padding:10px" width="40px"/>
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" style="padding:10px" width="40px"/>
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" style="padding:10px" width="40px"/>
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" style="padding:10px" width="40px"/>
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" style="padding:10px" width="40px"/>
-<br />
-<br />
-
----
-
-[website]: http://fortunezviregei.com/
-[twitter]: https://twitter.com/
-[instagram]: https://instagram.com/guy_with_substance
-[linkedin]: https://www.linkedin.com/in/fortune-zviregei-029161163/
+<h3 align="left">Get in touch with me:</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/fortune-zviregei-029161163/" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      alt="zapeture" height="30" width="40" /></a>
+  <a href="https://www.facebook.com/zapeture/" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
+      alt="zapeture" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/guy_with_substance/" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+      alt="_._.adam._" height="30" width="40" /></a>
+ <a href="https://twitter.com/Zviedirect" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
+      alt="adampithewan" height="30" width="40" /></a>
+</p>
