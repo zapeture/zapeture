@@ -1,8 +1,8 @@
 <a href="https://fortunezviregei.com">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/header-night.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/header-day.png">
-    <img alt="Fortune Zviregei. Frontend lead at Adtran. I like software that stays legible once the excitement fades." src="assets/header-night.png" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/header-night.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/header-day.svg">
+    <img alt="Fortune Zviregei. Frontend lead at Adtran. I like software that stays legible once the excitement fades." src="assets/header-night.svg" width="100%">
   </picture>
 </a>
 
